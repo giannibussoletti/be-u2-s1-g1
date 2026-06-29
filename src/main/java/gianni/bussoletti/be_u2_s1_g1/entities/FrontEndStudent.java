@@ -1,5 +1,6 @@
 package gianni.bussoletti.be_u2_s1_g1.entities;
 
+
 public class FrontEndStudent extends Student {
     public FrontEndStudent(String name, String surname) {
         super(name, surname);
